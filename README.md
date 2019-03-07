@@ -22,3 +22,13 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+Take a pull...
+And changes in {line 41 and 42}
+
+config/enviroments/development.rb
+
+:user_name => 'YOUR EMAIL',
+:password => 'PASSWORD',
+ 
+Replace 'YOUR EMAIL' with your email_id and 'PASSWORD' with your email_password
